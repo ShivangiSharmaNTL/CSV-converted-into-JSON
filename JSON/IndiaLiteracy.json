@@ -1,0 +1,70 @@
+[
+  {
+    "category": "Literate",
+    "values": [
+      {
+        "value": 434763622,
+        "rate": "Male"
+      },
+      {
+        "value": 328875190,
+        "rate": "Female"
+      }
+    ]
+  },
+  {
+    "category": "Illiterate",
+    "values": [
+      {
+        "value": 188506636,
+        "rate": "Male"
+      },
+      {
+        "value": 258709529,
+        "rate": "Female"
+      }
+    ]
+  },
+  {
+    "category": "Literate",
+    "values": [
+      {
+        "value": 434763622,
+        "rate": "Male"
+      },
+      {
+        "value": 328875190,
+        "rate": "Female"
+      },
+      {
+        "value": 434763622,
+        "rate": "Male"
+      },
+      {
+        "value": 328875190,
+        "rate": "Female"
+      }
+    ]
+  },
+  {
+    "category": "Literate",
+    "values": [
+      {
+        "value": 434763622,
+        "rate": "Male"
+      },
+      {
+        "value": 328875190,
+        "rate": "Female"
+      },
+      {
+        "value": 434763622,
+        "rate": "Male"
+      },
+      {
+        "value": 328875190,
+        "rate": "Female"
+      }
+    ]
+  }
+]
