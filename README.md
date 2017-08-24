@@ -1,6 +1,7 @@
 # CSV-converted-into-Json
-Title -: CSV converted into JSON
-csv file converted into json .
+Title -: CSV converted into JSON.
+
+Csv file converted into json .
 and with the help of json, d3 is created .
 for different queries different chart is created.
 
